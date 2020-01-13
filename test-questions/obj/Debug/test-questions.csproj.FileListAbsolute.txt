@@ -1,0 +1,12 @@
+C:\Users\dspt\source\repos\test-questions\bin\Debug\test-questions.exe
+C:\Users\dspt\source\repos\test-questions\bin\Debug\test-questions.pdb
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test-questions.csprojAssemblyReference.cache
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test_questions.Form1.resources
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test_questions.Properties.Resources.resources
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test-questions.csproj.GenerateResource.cache
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test-questions.exe
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test-questions.pdb
+C:\Users\dspt\source\repos\test-questions\bin\Debug\test-questions.exe.manifest
+C:\Users\dspt\source\repos\test-questions\bin\Debug\test-questions.application
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test-questions.exe.manifest
+C:\Users\dspt\source\repos\test-questions\obj\Debug\test-questions.application
